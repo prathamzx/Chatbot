@@ -10,3 +10,7 @@ Implements dictionary through two json files.
 -> Try to ask "Open Chrome", It will first search the "chrome.exe" file in the directories and save its location to app.json.
 
 -> Searching takes time so, the saved location serves as cache access for the chatbot.
+
+# Tasks
+1. Embedding Speech Recognition
+2. UX/UI
